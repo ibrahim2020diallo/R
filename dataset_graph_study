@@ -1,0 +1,11 @@
+>pop <- read_csv("R/Air_Quality.csv")
+> pop
+> pop$`Data Value`
+> plot(pop$`Data Value`)
+> View(Air_Quality)
+> View(pop)
+> View(Air_Quality)
+> View(pop)
+> View(pop)
+> hist(Air_Quality$`Data Value`)
+> barplot(Air_Quality$`Data Value`)
